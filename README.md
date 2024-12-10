@@ -1,6 +1,6 @@
 # Recursive Config File Updater
 
-This Python script scans `.cfg` files in the folder it is placed in, including all subdirectories, and replaces a specified string with a user-provided replacement path. It's designed for use cases like updating overlay .cfg's paths in configuration files for RetroPie or other similar projects. Includes all MAME overlays for FB Alpha, FinalBurn Neo, MAME, MAME 2003 (0.78), MAME 2003-Plus and MAME 2010. 
+This Python script scans necessary `.cfg` files in the folder it is placed in, including all subdirectories, and replaces a specified string with a user-provided replacement path. It's designed for use cases like updating overlay .cfg's paths in configuration files for RetroPie or other similar projects. Includes all MAME overlays for FB Alpha, FinalBurn Neo, MAME, MAME 2003 (0.78), MAME 2003-Plus and MAME 2010. 
 
 ---
 
@@ -28,4 +28,4 @@ This Python script scans `.cfg` files in the folder it is placed in, including a
 
 ### 3. Run the script and it will ask you to, "Enter the Replacement path:" in my case it is /storage/E7BF-C3B1/RetroArch/overlay/ArcadeBezels/ this is the retroarch location where you will store the overlays and configs in the next step 
 
-### 4. Now track the config and overlay folders to the correct location in retroarch.
+### 4. Drag the config and overlay folders to the correct location of your RetroArch install
