@@ -26,6 +26,6 @@ This Python script scans necessary `.cfg` files in the folder it is placed in, i
 
 ### 2. Inside the retroarch folder you will find the 'Run This to Update CFGs.py' script
 
-### 3. Run the script and it will ask you to, "Enter the Replacement path:" in my case it is /storage/E7BF-C3B1/RetroArch/overlay/ArcadeBezels/ this is the retroarch location where you will store the overlays and configs in the next step 
+### 3. Run the script and it will ask you to, "Enter the Replacement path:" in my case it is   /storage/E7BF-C3B1/RetroArch/overlay/ArcadeBezels/ this is the retroarch location where you will store the overlays and configs in the next step 
 
 ### 4. Drag the config and overlay folders to the correct location of your RetroArch install
