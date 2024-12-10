@@ -27,3 +27,5 @@ Clone the repository or download the script directly:
 
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
+
+### 2. Download the Script
